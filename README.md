@@ -1,2 +1,3 @@
 # hello-world
 hello world project
+This is the first modified version, first trial of commit feature...
